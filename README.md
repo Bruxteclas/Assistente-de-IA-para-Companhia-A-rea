@@ -19,7 +19,7 @@
 - **os**: Para manipulação de arquivos e sistema operacional.
 - **json**: Manipulação de dados em formato JSON.
 
-## Acesse a interface no navegador: [http://127.0.0.1:7866](http://127.0.0.1:7866).
+## [Acesse a interface no navegador](https://huggingface.co/spaces/Bruxteclas/assistente_virtual_viagens).
 
 # **Interaja com o Assistente**: Pergunte sobre passagens, promoções e destinos!
 
